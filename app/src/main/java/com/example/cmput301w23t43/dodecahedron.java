@@ -1,1 +1,3 @@
-public class dodecahedron extends Shape {}
+public class dodecahedron extends Shape {
+    String colour = "purple";
+}
